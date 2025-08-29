@@ -11,7 +11,7 @@ It showcases my skills in **HTML** and **CSS**, and serves as a hub to present m
 
 ## Live Demo
 You can view the project live here:  
-👉 [Personal Portfolio on GitHub Pages](https://your-username.github.io/fcc-personal-portfolio-webpage/)
+👉 [Personal Portfolio on GitHub Pages] (https://mdsamiurrahman357.github.io/fcc-personal-portfolio-webpage/)
 
 ## Technologies Used
 - HTML
